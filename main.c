@@ -83,6 +83,7 @@ int find(int (*tab)[10], int key, int *row, int*col) {
   }
 
 int main(void){
+  ex_1();
   //printf("Enter the number of elements: ");
   int n = 5;
   //scanf("%d", &n);
